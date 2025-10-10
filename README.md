@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm Harshal Gavali</h1>
-<h3 align="center">🚀 Software Engineer | Automation & Web Developer | Cloud Enthusiast</h3>
+<h3 align="center">🔍 Software Development Engineer in Test (SDET) | Automation | API & Performance Testing</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
@@ -10,68 +10,85 @@
 
 ### 🧠 About Me
 
-🎯 Passionate Software Engineer focused on building **scalable web applications**, **automating workflows**, and leveraging **cloud technologies**.  
-💻 Skilled in **Java, JavaScript, React, AWS, Selenium, Rest Assured, JMeter, and Postman**.  
-⚙️ Experienced in **performance testing**, **n8n workflow automation**, and **Agentic AI** integrations.  
-🌱 Constantly learning new tools, optimizing processes, and pushing for cleaner, faster, and more reliable code.
+🎯 Passionate **SDET** with hands-on experience in **Automation Testing, API Testing, and Performance Testing** using **Java, Selenium, Rest Assured, JMeter, and Postman**.  
+⚙️ Skilled in **framework design**, **test execution**, and **CI/CD integration**, ensuring robust test coverage and product quality.  
+☁️ Experienced with **AWS Cloud** and **n8n Agentic AI** workflows for test automation and process optimization.  
+💡 Dedicated to writing clean, maintainable, and scalable test code while driving continuous improvement in QA practices.
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-- **Nitor Infotech (Ascendion Company)** — *Trainee Software Engineer*  
-  _June 2025 - Present_  
-  > Working with **Java**, **Selenium**, **Rest Assured**, **JMeter**, and **n8n** for automation and performance testing.
+#### 🧪 **Nitor Infotech (Ascendion Company)** — *Trainee Software Engineer*  
+📅 *June 2025 - Present*  
+- Developed and executed **UI and API automation tests** using **Selenium WebDriver** and **Rest Assured**.  
+- Designed **hybrid frameworks** integrating **TestNG**, **Maven**, and **Page Object Model (POM)**.  
+- Conducted **performance testing** with **JMeter** to analyze application bottlenecks.  
+- Built **workflow automations** using **n8n** to reduce repetitive QA tasks.  
 
-- **GoldenSource International Pvt Ltd** — *Junior Associate*  
-  _Oct 2024 - Mar 2025_  
-  > Managed production support for enterprise financial data systems using **SQL**, **PostgreSQL**, and **Linux scripting**.
+#### ⚙️ **GoldenSource International Pvt Ltd** — *Junior Associate*  
+📅 *Oct 2024 - Mar 2025*  
+- Managed **production incidents** and root-cause analysis in **Unix/Linux** environments.  
+- Automated routine maintenance tasks using **Shell scripting**.  
+- Enhanced **SQL and Oracle** query performance, improving test data validation speed.  
+- Supported large-scale **financial data systems** with an eye for reliability and uptime.  
 
-- **Hexaware Technologies** — *Software Engineer Intern*  
-  _Jan 2024 - Mar 2024_  
-  > Built a **React-based Employee Management System** with RESTful API integration and responsive design.
+#### 💻 **Hexaware Technologies** — *Software Engineer Intern*  
+📅 *Jan 2024 - Mar 2024*  
+- Designed **React-based Employee Management System** with REST API integration.  
+- Conducted **frontend and integration testing** for component validation.  
+- Ensured responsive UI, optimized for performance and accessibility.  
 
-- **Edu-Skill (AWS Cloud Internship)** — *Software Engineer Intern*  
-  _Jan 2024 - Mar 2024_  
-  > Developed and deployed a **data visualization dashboard** using **React** and **AWS services** (S3, EC2, CloudFront).
+#### ☁️ **Edu-Skill (AWS Cloud Internship)** — *Software Engineer Intern*  
+📅 *Jan 2024 - Mar 2024*  
+- Built and deployed **data visualization dashboards** on **AWS (S3, EC2, CloudFront, Route 53)**.  
+- Automated deployment pipelines, integrating test suites and monitoring dashboards.  
+- Focused on **security testing** and **performance tuning** for scalability.  
 
 ---
 
 ### 🧩 Projects
 
-#### ☁️ CloudVault – Cloud-Based Data Storage Platform
-- Built a secure platform offering **50GB free storage** using the **GitHub API**.  
-- Frontend in **JavaScript + Firebase Authentication**, encrypted via **RSA & AES**.  
-- Implemented a **custom load balancer** for optimized performance.
+#### 🧱 **CloudVault – Cloud-Based Data Storage Platform**
+- Developed a cloud storage platform using the **GitHub API**, offering **50GB free encrypted storage**.  
+- Integrated **RSA + AES encryption** for security.  
+- Implemented custom **load balancing** and **data integrity validation tests**.
 
-#### 🧑‍💼 Employee Management System
-- Developed with **React** and **Bootstrap**, using REST APIs for CRUD operations.  
-- Ensured responsiveness, clean UI/UX, and efficient state management via **React Hooks**.
+#### 🧪 **Automation Framework Development**
+- Built a **hybrid automation testing framework** with **Java**, **TestNG**, **Selenium**, and **Maven**.  
+- Added **reporting with Extent Reports** and **Allure**, improving test visibility.  
+- Automated **API regression tests** with **Rest Assured** and **Postman collections**.
 
-#### 📊 AWS Cloud Data Dashboard
-- Created an **interactive visualization dashboard** with **React + AWS (S3, EC2, Route 53)**.  
-- Deployed with **ACM** for SSL and optimized performance for large datasets.
+#### ⚡ **Performance Testing Suite**
+- Conducted load and stress testing using **Apache JMeter**.  
+- Created custom **JMeter scripts** for concurrent user simulation.  
+- Analyzed reports and optimized backend response times.  
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Core Skills
 
-#### 💻 Languages & Frameworks
+#### 💻 Programming & Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img src="https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-007396?logo=java&logoColor=white" />
 </p>
 
-#### 🧪 Automation & Testing
+#### 🧪 Testing Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
   <img src="https://img.shields.io/badge/Rest%20Assured-4B8BBE?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JMeter-E34F26?logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Extent%20Reports-blueviolet?logo=report&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### ☁️ Cloud, CI/CD & Workflow Automation
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,github" />
+  <img src="https://skillicons.dev/icons?i=aws,github,linux,bash" />
   <img src="https://img.shields.io/badge/n8n%20Workflow%20Automation-orange?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?logo=ai&logoColor=white" />
 </p>
 
 #### 🧰 Databases & Servers
@@ -83,12 +100,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalgavali&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalgavali&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshal-gav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-gav&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📚 Education
+
+🎓 **B.Tech in Computer Engineering** — Rajarambapu Institute of Technology  
+📈 CGPA: 9.13 / 10
 
 ---
 
@@ -96,10 +120,10 @@
 
 <p align="center">
   <a href="mailto:harshal.gav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/harshalgavali" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/harshalgavali" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/harshal-gavali-engineer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/harshal-gav" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
 
-⭐ **“Code. Automate. Optimize. Repeat.”**
+<h3 align="center">💡 “Test Smart. Automate Smarter.” 💡</h3>
