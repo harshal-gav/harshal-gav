@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey there, I'm Harshal Gavali</h1>
-<h3 align="center">🔍 Software Development Engineer in Test (SDET) | Automation | API & Performance Testing</h3>
+<h3 align="center">💻 Frontend Developer | React | Angular | Vue.js | JavaScript</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
@@ -10,92 +10,86 @@
 
 ### 🧠 About Me
 
-🎯 Passionate **SDET** with hands-on experience in **Automation Testing, API Testing, and Performance Testing** using **Java, Selenium, Rest Assured, JMeter, and Postman**.  
-⚙️ Skilled in **framework design**, **test execution**, and **CI/CD integration**, ensuring robust test coverage and product quality.  
-☁️ Experienced with **AWS Cloud** and **n8n Agentic AI** workflows for test automation and process optimization.  
-💡 Dedicated to writing clean, maintainable, and scalable test code while driving continuous improvement in QA practices.
+🎯 Passionate **Frontend Developer** with experience in building **scalable, high-performance web applications** using **React, Angular, Vue.js, and JavaScript**.  
+⚙️ Skilled in **UI development, API integration, and performance optimization**, ensuring seamless user experiences.  
+☁️ Experienced with **AWS Cloud** and **n8n workflows** for automation and efficient frontend processes.  
+💡 Focused on writing **clean, maintainable, and scalable code** while improving application performance and usability.
 
 ---
 
 ### 💼 Professional Experience
 
-#### 🧪 **Nitor Infotech (Ascendion Company)** — *Trainee Software Engineer*  
+#### 💻 **Nitor Infotech (Ascendion Company)** — *Frontend Developer*  
 📅 *June 2025 - Present*  
-- Developed and executed **UI and API automation tests** using **Selenium WebDriver** and **Rest Assured**.  
-- Designed **hybrid frameworks** integrating **TestNG**, **Maven**, and **Page Object Model (POM)**.  
-- Conducted **performance testing** with **JMeter** to analyze application bottlenecks.  
-- Built **workflow automations** using **n8n** to reduce repetitive QA tasks.  
+- Developed and optimized **reusable UI components**, improving application performance and user experience  
+- Built **automation workflows using n8n**, reducing manual effort and streamlining frontend processes  
+- Implemented and tested **real-world user scenarios**, ensuring reliable and responsive interfaces  
 
-#### ⚙️ **GoldenSource International Pvt Ltd** — *Junior Associate*  
+#### ⚙️ **GoldenSource International Pvt Ltd** — *Frontend Developer*  
 📅 *Oct 2024 - Mar 2025*  
-- Managed **production incidents** and root-cause analysis in **Unix/Linux** environments.  
-- Automated routine maintenance tasks using **Shell scripting**.  
-- Enhanced **SQL and Oracle** query performance, improving test data validation speed.  
-- Supported large-scale **financial data systems** with an eye for reliability and uptime.  
+- Maintained **stable and high-performing web applications**, ensuring consistent user experience  
+- Automated workflows to improve development efficiency and reduce manual effort  
+- Debugged and resolved issues related to **API integration, data handling, and UI behavior**  
 
-#### 💻 **Hexaware Technologies** — *Software Engineer Intern*  
+#### 💻 **Hexaware Technologies** — *Frontend Developer Intern*  
 📅 *Jan 2024 - Mar 2024*  
-- Designed **React-based Employee Management System** with REST API integration.  
-- Conducted **frontend and integration testing** for component validation.  
-- Ensured responsive UI, optimized for performance and accessibility.  
+- Built a **React-based Employee Management System** with REST API integration  
+- Improved frontend performance and optimized **page load time**  
+- Implemented responsive UI and validated multiple **user flows and features**  
 
-#### ☁️ **Edu-Skill (AWS Cloud Internship)** — *Software Engineer Intern*  
+#### ☁️ **Edu-Skill (AWS Cloud Internship)** — *Frontend Developer Intern*  
 📅 *Jan 2024 - Mar 2024*  
-- Built and deployed **data visualization dashboards** on **AWS (S3, EC2, CloudFront, Route 53)**.  
-- Automated deployment pipelines, integrating test suites and monitoring dashboards.  
-- Focused on **security testing** and **performance tuning** for scalability.  
+- Developed **data visualization dashboards** using AWS services  
+- Integrated cloud-based data with frontend for **interactive UI experiences**  
+- Focused on performance, scalability, and user-friendly design  
 
 ---
 
 ### 🧩 Projects
 
 #### 🧱 **CloudVault – Cloud-Based Data Storage Platform**
-- Developed a cloud storage platform using the **GitHub API**, offering **50GB free encrypted storage**.  
-- Integrated **RSA + AES encryption** for security.  
-- Implemented custom **load balancing** and **data integrity validation tests**.
+- Developed a cloud storage platform using **GitHub API** with secure data handling  
+- Implemented **RSA + AES encryption** and optimized data flow  
+- Built scalable UI for managing and accessing stored data  
 
-#### 🧪 **Automation Framework Development**
-- Built a **hybrid automation testing framework** with **Java**, **TestNG**, **Selenium**, and **Maven**.  
-- Added **reporting with Extent Reports** and **Allure**, improving test visibility.  
-- Automated **API regression tests** with **Rest Assured** and **Postman collections**.
+#### 📊 **Formula 1 Data Visualization Dashboard**
+- Built an **interactive dashboard** to visualize race data and predictions  
+- Transformed complex datasets into **user-friendly charts and UI components**  
+- Focused on performance and real-time data rendering  
 
-#### ⚡ **Performance Testing Suite**
-- Conducted load and stress testing using **Apache JMeter**.  
-- Created custom **JMeter scripts** for concurrent user simulation.  
-- Analyzed reports and optimized backend response times.  
+#### 📈 **Customer Insights Dashboard**
+- Designed a frontend interface to highlight **high-conversion user segments (80%)**  
+- Improved decision-making through **data-driven UI and visual insights**  
+- Reduced operational costs by enabling targeted strategies  
 
 ---
 
 ### 🧠 Core Skills
 
-#### 💻 Programming & Automation
+#### 💻 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-  <img src="https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Page%20Object%20Model-007396?logo=java&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,angular,vue,html,css" />
 </p>
 
-#### 🧪 Testing Tools
+#### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
-  <img src="https://img.shields.io/badge/Rest%20Assured-4B8BBE?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-E34F26?logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Extent%20Reports-blueviolet?logo=report&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?logo=api&logoColor=white" />
 </p>
 
-#### ☁️ Cloud, CI/CD & Workflow Automation
+#### ☁️ Cloud & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,github,linux,bash" />
-  <img src="https://img.shields.io/badge/n8n%20Workflow%20Automation-orange?logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?logo=ai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,firebase" />
 </p>
 
-#### 🧰 Databases & Servers
+#### 🤖 Automation & Workflows
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-  <img src="https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/JBoss-CC0000?logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n%20Automation-orange?logo=n8n&logoColor=white" />
+</p>
+
+#### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
@@ -126,4 +120,4 @@
 
 ---
 
-<h3 align="center">💡 “Test Smart. Automate Smarter.” 💡</h3>
+<h3 align="center">💡 “Build Fast. Build Scalable. Build for Users.” 💡</h3>
