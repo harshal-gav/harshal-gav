@@ -99,23 +99,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshal-gav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-gav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshal-gav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshal-gav&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 ### 📚 Education
 
 🎓 **B.Tech / B.E. in Computer Science and Engineering** — Rajarambapu Institute of Technology, Urun Islampur  
